@@ -20,3 +20,7 @@
 
 <br>
 
+
+![](https://github.com/garywu520/rime_settings_dict/blob/main/SCR-1.png)
+![](https://github.com/garywu520/rime_settings_dict/blob/main/SCR-2.png)
+![](https://github.com/garywu520/rime_settings_dict/blob/main/SCR-3.png)
